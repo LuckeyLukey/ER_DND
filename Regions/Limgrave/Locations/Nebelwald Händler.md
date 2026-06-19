@@ -1,0 +1,19 @@
+﻿# Nebelwald Händler
+
+## Kurzbeschreibung
+
+Folienanzahl in der ursprünglichen PowerPoint: 1
+
+## Wichtige NPCs
+
+## Gegner
+
+## Loot
+
+## Runen
+
+## Hinweise für den DM
+
+## Verknüpfte Slides
+![[Nebelwald Händler]]
+
