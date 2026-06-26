@@ -15,5 +15,6 @@ Folienanzahl in der ursprünglichen PowerPoint: 4
 ## Hinweise für den DM
 
 ## Verknüpfte Slides
-![[Niederer Erdenbaum Aufzug]]
+![[Regions/Limgrave/Slides/Niederer Erdenbaum Aufzug]]
+
 

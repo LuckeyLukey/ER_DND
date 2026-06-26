@@ -8,6 +8,7 @@ Quelle: Beispielwaffe fuer das Elden-Ring-DnD-Waffensystem
 - Seltenheit: Normal
 - Upgrade-Pfad: Schmiedesteine
 - Empfohlene Region: Limgrave
+- Fundort: [[Todberührte Katakomben]]
 - Verknuepfte Ash of War: [[Unsheathe]]
 
 ## Grundwerte

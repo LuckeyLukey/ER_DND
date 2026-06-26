@@ -15,5 +15,6 @@ Folienanzahl in der ursprünglichen PowerPoint: 1
 ## Hinweise für den DM
 
 ## Verknüpfte Slides
-![[Nebelwald Händler]]
+![[Regions/Limgrave/Slides/Nebelwald Händler]]
+
 

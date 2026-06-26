@@ -15,5 +15,6 @@ Folienanzahl in der ursprünglichen PowerPoint: 9
 ## Hinweise für den DM
 
 ## Verknüpfte Slides
-![[Tafelrunde]]
+![[Regions/Limgrave/Slides/Tafelrunde]]
+
 

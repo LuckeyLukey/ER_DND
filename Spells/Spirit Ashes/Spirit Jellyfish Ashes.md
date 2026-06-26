@@ -1,4 +1,4 @@
-﻿# Spirit Jellyfish Ashes
+# Spirit Jellyfish Ashes
 **Level:** 2nd  
 **School:** Conjuration  
 **Casting Time:** 1 Action  

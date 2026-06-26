@@ -15,5 +15,6 @@ Folienanzahl in der ursprünglichen PowerPoint: 11
 ## Hinweise für den DM
 
 ## Verknüpfte Slides
-![[Hochstraßen-Höhle]]
+![[Regions/Limgrave/Slides/Hochstraßen-Höhle]]
+
 

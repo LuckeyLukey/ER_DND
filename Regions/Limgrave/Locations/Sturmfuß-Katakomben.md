@@ -15,5 +15,6 @@ Folienanzahl in der ursprünglichen PowerPoint: 9
 ## Hinweise für den DM
 
 ## Verknüpfte Slides
-![[Sturmfuß-Katakomben]]
+![[Regions/Limgrave/Slides/Sturmfuß-Katakomben]]
+
 

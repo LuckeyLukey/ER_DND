@@ -1,4 +1,4 @@
-﻿# Blaidd the Half-Wolf – Informationen nach Kampagnenfortschritt
+# Blaidd the Half-Wolf – Informationen nach Kampagnenfortschritt
 
 ## Phase 1 – Limgrave
 

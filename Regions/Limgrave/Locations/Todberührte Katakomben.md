@@ -1,4 +1,4 @@
-﻿# Todberührte Katakomben
+# Todberührte Katakomben
 
 ## Kurzbeschreibung
 
@@ -10,10 +10,13 @@ Folienanzahl in der ursprünglichen PowerPoint: 11
 
 ## Loot
 
+- [[Uchigatana]]
+
 ## Runen
 
 ## Hinweise für den DM
 
 ## Verknüpfte Slides
-![[Todberührte Katakomben]]
+![[Regions/Limgrave/Slides/Todberührte Katakomben]]
+
 

@@ -15,5 +15,6 @@ Folienanzahl in der ursprünglichen PowerPoint: 4
 ## Hinweise für den DM
 
 ## Verknüpfte Slides
-![[Stormcastle]]
+![[Regions/Limgrave/Slides/Stormcastle]]
+
 

@@ -1,4 +1,4 @@
-﻿# Bloody Finger Hunter Yura – Informationen nach Kampagnenfortschritt
+# Bloody Finger Hunter Yura – Informationen nach Kampagnenfortschritt
 
 ## Phase 1 – Limgrave
 

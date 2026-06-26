@@ -15,5 +15,6 @@ Folienanzahl in der ursprünglichen PowerPoint: 12
 ## Hinweise für den DM
 
 ## Verknüpfte Slides
-![[Totenwasser Dorf]]
+![[Regions/Limgrave/Slides/Totenwasser Dorf]]
+
 

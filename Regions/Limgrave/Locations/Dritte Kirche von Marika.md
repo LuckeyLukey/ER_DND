@@ -15,5 +15,6 @@ Folienanzahl in der ursprünglichen PowerPoint: 3
 ## Hinweise für den DM
 
 ## Verknüpfte Slides
-![[Dritte Kirche von Marika]]
+![[Regions/Limgrave/Slides/Dritte Kirche von Marika]]
+
 

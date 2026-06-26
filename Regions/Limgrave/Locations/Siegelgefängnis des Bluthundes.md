@@ -15,5 +15,6 @@ Folienanzahl in der ursprünglichen PowerPoint: 3
 ## Hinweise für den DM
 
 ## Verknüpfte Slides
-![[Siegelgefängnis des Bluthundes]]
+![[Regions/Limgrave/Slides/Siegelgefängnis des Bluthundes]]
+
 

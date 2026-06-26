@@ -1,2 +1,2 @@
-﻿# NPC Template
+# NPC Template
 

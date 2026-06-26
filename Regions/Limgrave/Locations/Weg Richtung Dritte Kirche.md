@@ -15,5 +15,6 @@ Folienanzahl in der ursprünglichen PowerPoint: 4
 ## Hinweise für den DM
 
 ## Verknüpfte Slides
-![[Weg Richtung Dritte Kirche]]
+![[Regions/Limgrave/Slides/Weg Richtung Dritte Kirche]]
+
 

@@ -15,5 +15,6 @@ Folienanzahl in der ursprünglichen PowerPoint: 8
 ## Hinweise für den DM
 
 ## Verknüpfte Slides
-![[Tunnel von Limgrave]]
+![[Regions/Limgrave/Slides/Tunnel von Limgrave]]
+
 

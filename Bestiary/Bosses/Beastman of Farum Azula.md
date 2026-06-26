@@ -1,4 +1,4 @@
-﻿# Beastman of Farum Azula
+# Beastman of Farum Azula
 *Medium humanoid, chaotic neutral*
 
 **Armor Class** 14  

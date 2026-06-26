@@ -15,5 +15,6 @@ Folienanzahl in der ursprünglichen PowerPoint: 9
 ## Hinweise für den DM
 
 ## Verknüpfte Slides
-![[Wegpunkt Ruinen]]
+![[Regions/Limgrave/Slides/Wegpunkt Ruinen]]
+
 

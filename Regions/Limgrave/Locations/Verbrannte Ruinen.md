@@ -15,5 +15,6 @@ Folienanzahl in der ursprünglichen PowerPoint: 5
 ## Hinweise für den DM
 
 ## Verknüpfte Slides
-![[Verbrannte Ruinen]]
+![[Regions/Limgrave/Slides/Verbrannte Ruinen]]
+
 

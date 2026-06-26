@@ -15,5 +15,6 @@ Folienanzahl in der ursprünglichen PowerPoint: 7
 ## Hinweise für den DM
 
 ## Verknüpfte Slides
-![[Trübflusshöhle]]
+![[Regions/Limgrave/Slides/Trübflusshöhle]]
+
 

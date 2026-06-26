@@ -15,5 +15,6 @@ Folienanzahl in der ursprünglichen PowerPoint: 5
 ## Hinweise für den DM
 
 ## Verknüpfte Slides
-![[Hainhöhle]]
+![[Regions/Limgrave/Slides/Hainhöhle]]
+
 

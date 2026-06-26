@@ -1,4 +1,4 @@
-﻿# Sturmhügel Siegelgefängnis
+# Sturmhügel Siegelgefängnis
 
 ## Kurzbeschreibung
 
@@ -15,5 +15,6 @@ Folienanzahl in der ursprünglichen PowerPoint: 2
 ## Hinweise für den DM
 
 ## Verknüpfte Slides
-![[Sturmhügel Siegelgefängnis]]
+![[Regions/Limgrave/Slides/Sturmhügel Siegelgefängnis]]
+
 

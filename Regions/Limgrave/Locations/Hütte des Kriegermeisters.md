@@ -15,5 +15,6 @@ Folienanzahl in der ursprünglichen PowerPoint: 2
 ## Hinweise für den DM
 
 ## Verknüpfte Slides
-![[Hütte des Kriegermeisters]]
+![[Regions/Limgrave/Slides/Hütte des Kriegermeisters]]
+
 

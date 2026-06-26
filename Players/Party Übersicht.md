@@ -1,4 +1,4 @@
-﻿# Übersicht der Playerparty
+# Übersicht der Playerparty
 
 Quelle: Screenshot der aktuellen Party. Einige Charakternamen sind im Screenshot abgeschnitten und wurden daher genau so übernommen, wie sie sichtbar sind.
 

@@ -15,5 +15,6 @@ Folienanzahl in der ursprünglichen PowerPoint: +Ruine) (9
 ## Hinweise für den DM
 
 ## Verknüpfte Slides
-![[Nebelwald]]
+![[Regions/Limgrave/Slides/Nebelwald]]
+
 

@@ -15,5 +15,6 @@ Folienanzahl in der ursprünglichen PowerPoint: 2
 ## Hinweise für den DM
 
 ## Verknüpfte Slides
-![[Boc der Schneider]]
+![[Regions/Limgrave/Slides/Boc der Schneider]]
+
 

@@ -1,4 +1,4 @@
-﻿# Tree Sentinel
+# Tree Sentinel
 *Large humanoid (human), lawful neutral*
 
 **Armor Class** 18 (Plate, Shield)  

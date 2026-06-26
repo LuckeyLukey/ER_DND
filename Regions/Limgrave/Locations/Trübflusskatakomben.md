@@ -15,5 +15,6 @@ Folienanzahl in der ursprünglichen PowerPoint: 6
 ## Hinweise für den DM
 
 ## Verknüpfte Slides
-![[Trübflusskatakomben]]
+![[Regions/Limgrave/Slides/Trübflusskatakomben]]
+
 

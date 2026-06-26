@@ -1,7 +1,19 @@
 ﻿---
 theme: black
+width: 1280
+height: 720
+margin: 0
 ---
 
-# Sturmhügel Siegelgefängnis
+<style>
+.reveal section img {
+  margin: 0;
+  border: 0;
+  box-shadow: none;
+}
+</style>
 
-<!-- Hier später die Bilder einfügen -->
+![[Regions/Limgrave/Images/Sturmhügel Siegelgefängnis/Folie143_result.webp|1280]]
+---
+![[Regions/Limgrave/Images/Sturmhügel Siegelgefängnis/Folie144_result.webp|1280]]
+

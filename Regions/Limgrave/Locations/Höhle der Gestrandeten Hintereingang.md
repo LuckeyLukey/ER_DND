@@ -15,5 +15,6 @@ Folienanzahl in der ursprünglichen PowerPoint: 3
 ## Hinweise für den DM
 
 ## Verknüpfte Slides
-![[Höhle der Gestrandeten Hintereingang]]
+![[Regions/Limgrave/Slides/Höhle der Gestrandeten Hintereingang]]
+
 
