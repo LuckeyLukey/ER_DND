@@ -9,6 +9,7 @@
 - Keine Dateien vorhanden
 
 ### Normal
+- [[Items/Weapons/Normal/Erdsteel Dagger|Erdsteel Dagger]]
 - [[Items/Weapons/Normal/Uchigatana|Uchigatana]]
 
 ## Ashes of War
@@ -19,4 +20,3 @@
 
 ## Consumables
 - Keine Dateien vorhanden
-

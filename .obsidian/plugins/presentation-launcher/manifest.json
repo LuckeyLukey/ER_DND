@@ -1,0 +1,10 @@
+{
+  "id": "presentation-launcher",
+  "name": "Presentation Launcher",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Open Advanced Slides presentations in the browser from a searchable launcher.",
+  "author": "LuckeyLukey",
+  "authorUrl": "https://github.com/LuckeyLukey",
+  "isDesktopOnly": true
+}

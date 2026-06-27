@@ -1,0 +1,64 @@
+.presentation-launcher {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 100%;
+  padding: 12px;
+}
+
+.presentation-launcher__toolbar {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.presentation-launcher__search {
+  flex: 1;
+  min-width: 0;
+}
+
+.presentation-launcher__meta {
+  color: var(--text-muted);
+  font-size: var(--font-ui-smaller);
+}
+
+.presentation-launcher__list {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  overflow-y: auto;
+}
+
+.presentation-launcher__item {
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 6px;
+  background: var(--background-secondary);
+  color: var(--text-normal);
+  cursor: pointer;
+  padding: 8px 10px;
+  text-align: left;
+}
+
+.presentation-launcher__item:hover,
+.presentation-launcher__item:focus {
+  background: var(--background-modifier-hover);
+  border-color: var(--interactive-accent);
+}
+
+.presentation-launcher__title {
+  font-size: var(--font-ui-medium);
+  font-weight: 600;
+  line-height: 1.3;
+}
+
+.presentation-launcher__path {
+  color: var(--text-muted);
+  font-size: var(--font-ui-smaller);
+  line-height: 1.3;
+  overflow-wrap: anywhere;
+}
+
+.presentation-launcher__empty {
+  color: var(--text-muted);
+  padding: 12px 2px;
+}

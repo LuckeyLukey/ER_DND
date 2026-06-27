@@ -1,5 +1,6 @@
 .claude/
 .claudian/
-.obsidian/plugins/
+.obsidian/plugins/*
+!.obsidian/plugins/presentation-launcher/
+!.obsidian/plugins/presentation-launcher/**
 .obsidian/workspace.json
-
